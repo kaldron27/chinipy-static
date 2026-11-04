@@ -1,0 +1,1 @@
+export{t as bindStageSound}from"./sound.DFSHMaYd.js";

@@ -1,0 +1,1 @@
+var e=`chinipy:home:recent-apps`;function t(){try{let t=JSON.parse(localStorage.getItem(e)??`[]`);return Array.isArray(t)?t.filter(e=>typeof e?.id==`string`&&typeof e?.at==`number`):[]}catch{return[]}}function n(n,r=[]){let i=new Set([n,...r]),a=[{id:n,at:Date.now()},...t().filter(e=>!i.has(e.id))];try{localStorage.setItem(e,JSON.stringify(a.slice(0,6)))}catch{}}export{n,t};

@@ -1,0 +1,1 @@
+var e=e=>Math.ceil(Math.ceil(e/15)/10)*10,t=e=>Math.floor(e/100),n=`결제 금액 100원당 1크럼 적립`;export{e as n,t as r,n as t};

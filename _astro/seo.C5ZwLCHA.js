@@ -1,0 +1,1 @@
+var e=`contact@chinipy.com`,t=`070-5275-5946`,n=`평일 10:00~16:00 (주말·공휴일 휴무, 이메일은 24시간 접수)`;export{n,t as r,e as t};

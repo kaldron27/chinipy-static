@@ -1,0 +1,1 @@
+var e=`NOTICE_CHANGED`,t=`결제 안내 문구가 방금 바뀌었어요. 화면을 새로 고친 뒤 다시 결제해 주세요. 결제되지 않았어요.`;function n(e,t){return e?(e.noticeVersions??(e.noticeVersion?[e.noticeVersion]:[])).includes(t):!1}export{t as n,n as r,e as t};

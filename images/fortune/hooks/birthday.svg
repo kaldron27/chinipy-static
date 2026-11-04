@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <!-- Hook prop: small birthday cake with one candle (ink line, flat fill, no frame) -->
+  <g stroke="#1E1B16" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M18 50 H78 V80 H18 Z" fill="#F3E9D2"/>
+    <path d="M18 50 Q26 60 34 50 Q42 60 50 50 Q58 60 66 50 Q72 58 78 50" fill="#FFFFFF"/>
+    <path d="M14 80 H82" fill="none"/>
+    <rect x="44" y="28" width="8" height="22" rx="2" fill="#FFFFFF"/>
+    <path d="M48 12 Q55 20 48 26 Q41 20 48 12 Z" fill="#FED73C" stroke-width="3"/>
+  </g>
+  <g fill="#C8392B"><circle cx="30" cy="68" r="3"/><circle cx="48" cy="70" r="3"/><circle cx="66" cy="68" r="3"/></g>
+</svg>

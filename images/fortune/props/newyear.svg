@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+  <path d="M48 62 C40 52 36 40 35 30 a9 9 0 0 1 18 0 a9 9 0 0 1 18 0 a9 9 0 0 1 18 0 a9 9 0 0 1 18 0 a9 9 0 0 1 18 0 C124 40 120 52 112 62 Z" fill="#FED73C"/>
+  <path d="M48 62 C40 52 36 40 35 30 a9 9 0 0 1 18 0 a9 9 0 0 1 18 0 a9 9 0 0 1 18 0 a9 9 0 0 1 18 0 a9 9 0 0 1 18 0 C124 40 120 52 112 62 Z" fill="#C9452F" transform="translate(0 6)"/>
+  <ellipse cx="80" cy="38" rx="28" ry="6" fill="#97321F"/>
+  <path d="M50 62 C20 74 6 100 10 124 C14 148 46 154 80 154 C114 154 146 148 150 124 C154 100 140 74 110 62 Z" fill="#C9452F"/>
+  <path d="M46 56 Q80 66 114 56 L116 70 Q80 80 44 70 Z" fill="#97321F"/>
+  <path d="M44 62 Q80 72 116 62 L116 70 Q80 80 44 70 Z" fill="#FED73C"/>
+  <path d="M80 70 C66 50 38 54 42 70 C46 86 68 80 80 70 Z M80 70 C70 62 54 62 54 70 C54 76 68 76 80 70 Z" fill="#FED73C" fill-rule="evenodd"/>
+  <path d="M80 70 C94 50 122 54 118 70 C114 86 92 80 80 70 Z M80 70 C90 62 106 62 106 70 C106 76 92 76 80 70 Z" fill="#FED73C" fill-rule="evenodd"/>
+  <path d="M76 72 L56 98 L63 103 L82 76 Z M84 72 L104 98 L97 103 L78 76 Z" fill="#FED73C"/>
+  <rect x="51" y="96" width="12" height="14" rx="3" fill="#FED73C" transform="rotate(37 57 103)"/>
+  <rect x="97" y="96" width="12" height="14" rx="3" fill="#FED73C" transform="rotate(-37 103 103)"/>
+  <circle cx="80" cy="71" r="9" fill="#FED73C"/>
+</svg>

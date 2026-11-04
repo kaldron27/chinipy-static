@@ -1,0 +1,1 @@
+function e(e){if(!e)return``;let[t,n,r]=e.birthDate.split(`-`).map(Number),i=`${t}년 ${n}월 ${r}일${e.calendar===`lunar`?e.leapMonth?`(음력 윤달)`:`(음력)`:``}`;return e.birthTime&&(i+=` ${e.birthTime}`),e.birthPlace?`${i} · ${e.birthPlace}`:i}export{e as t};
