@@ -1,1 +1,0 @@
-export{n as genzMock}from"./genz-mock.BGn4Moxf.js";
