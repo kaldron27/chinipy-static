@@ -1,0 +1,19 @@
+{
+  "name": "cat_cheese_off_work_anim",
+  "character": "cheese",
+  "action": "off_work",
+  "style": "3D Clay Animation",
+  "frameCount": 4,
+  "frameWidth": 512,
+  "frameHeight": 512,
+  "sheetWidth": 2048,
+  "sheetHeight": 512,
+  "durations": [
+    400,
+    250,
+    450,
+    450
+  ],
+  "totalDurationMs": 1550,
+  "avgFps": 2.58
+}

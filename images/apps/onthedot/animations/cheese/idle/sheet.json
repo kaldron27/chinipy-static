@@ -1,0 +1,31 @@
+{
+  "character": "cat_cheese",
+  "action": "idle",
+  "style": "3d_clay",
+  "canvas_size": [
+    512,
+    512
+  ],
+  "frame_count": 4,
+  "total_duration_ms": 2000,
+  "avg_fps": 2.0,
+  "durations_ms": [
+    550,
+    450,
+    550,
+    450
+  ],
+  "frames": [
+    "frame_00.png",
+    "frame_01.png",
+    "frame_02.png",
+    "frame_03.png"
+  ],
+  "props": [
+    "cardboard_box",
+    "sleeping_spot_stamp",
+    "fleece_blanket",
+    "floating_z_bubbles"
+  ],
+  "description": "3D Clay Cheese Cat Idle sleeping animation in cardboard box with rising Z bubbles and gentle ear twitch"
+}

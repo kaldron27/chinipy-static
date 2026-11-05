@@ -1,0 +1,32 @@
+{
+  "character": "cat_cheese",
+  "action": "overtime",
+  "style": "3d_clay",
+  "canvas_size": [
+    512,
+    512
+  ],
+  "frame_count": 4,
+  "total_duration_ms": 840,
+  "avg_fps": 4.76,
+  "durations_ms": [
+    200,
+    200,
+    240,
+    200
+  ],
+  "frames": [
+    "frame_00.png",
+    "frame_01.png",
+    "frame_02.png",
+    "frame_03.png"
+  ],
+  "props": [
+    "flame_headband",
+    "red_backpack",
+    "clock_emblem",
+    "hand_flames",
+    "two_foot_landing"
+  ],
+  "description": "3D Clay Cheese Cat Overtime Sprint 4-frame animation: 00->02->01->03 rhythm (Left Step -> Right Step -> Leap -> Two-Foot Landing)"
+}

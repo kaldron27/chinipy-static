@@ -1,0 +1,33 @@
+{
+  "character": "cat_cheese",
+  "action": "lunch",
+  "style": "3d_clay",
+  "canvas_size": [
+    512,
+    512
+  ],
+  "frame_count": 4,
+  "total_duration_ms": 1620,
+  "avg_fps": 2.5,
+  "durations_ms": [
+    420,
+    380,
+    420,
+    400
+  ],
+  "frames": [
+    "frame_00.png",
+    "frame_01.png",
+    "frame_02.png",
+    "frame_03.png"
+  ],
+  "props": [
+    "wappa_bento_box",
+    "tatami_mat",
+    "rice_bowl",
+    "chopsticks",
+    "grilled_mackerel",
+    "tamagoyaki"
+  ],
+  "description": "3D Clay Cheese Cat Lunch Bento enjoyment 4-frame animation: 100% centered, stationary uncut mat/cushion & bento box, motion-only eating cycle with 0.0px jitter"
+}

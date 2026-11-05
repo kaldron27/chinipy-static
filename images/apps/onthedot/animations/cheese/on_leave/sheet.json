@@ -1,0 +1,33 @@
+{
+  "character": "cat_cheese",
+  "action": "on_leave",
+  "style": "3d_clay",
+  "canvas_size": [
+    512,
+    512
+  ],
+  "frame_count": 4,
+  "total_duration_ms": 1650,
+  "avg_fps": 2.4,
+  "durations_ms": [
+    450,
+    400,
+    450,
+    350
+  ],
+  "frames": [
+    "frame_00.png",
+    "frame_01.png",
+    "frame_02.png",
+    "frame_03.png"
+  ],
+  "props": [
+    "wooden_sunbed",
+    "striped_cushion",
+    "palm_leaf_canopy",
+    "tortoiseshell_sunglasses",
+    "coconut_drink",
+    "pink_umbrella"
+  ],
+  "description": "3D Clay Cheese Cat On Leave Sunbed 4-frame relaxing & juice drinking animation: 100% stationary uncut palm canopy and wooden sunbed, chubby body, hanging striped tail, coconut drink with pink umbrella, drinking coconut juice with puffed cheeks and laughing out loud with sparkling sunglasses"
+}

@@ -1,0 +1,54 @@
+{
+  "character": "cat_cheese",
+  "action": "working",
+  "style": "3d_clay",
+  "canvas_size": [
+    512,
+    512
+  ],
+  "frame_count": 4,
+  "total_duration_ms": 1340,
+  "avg_fps": 2.99,
+  "durations_ms": [
+    320,
+    320,
+    380,
+    320
+  ],
+  "frames": [
+    "frame_00.png",
+    "frame_01.png",
+    "frame_02.png",
+    "frame_03.png"
+  ],
+  "props": [
+    "gold_paw_coins",
+    "red_backpack",
+    "star_keychain",
+    "floating_dirt_path_island",
+    "pebbles"
+  ],
+  "coin_progression": {
+    "frame_00": {
+      "ground_coins": 4,
+      "hand_coins": 0,
+      "action": "Spot & Reach for coins"
+    },
+    "frame_01": {
+      "ground_coins": 2,
+      "hand_coins": 1,
+      "action": "Bend & Scoop 1 coin up"
+    },
+    "frame_02": {
+      "ground_coins": 1,
+      "hand_coins": 1,
+      "action": "Hug & Celebrate with coin to chest (∩ ∩)"
+    },
+    "frame_03": {
+      "ground_coins": 0,
+      "hand_coins": "multiple",
+      "action": "Stride & Advance with coins clutched in hand"
+    }
+  },
+  "description": "3D Clay Cheese Cat Coin Collecting Working 4-frame animation: 100% borderless, stationary uncut floating dirt road island (0.0px jitter), full coin collecting narrative loop (4 -> 2 -> 1 -> 0 on ground, accumulated into hands)"
+}
