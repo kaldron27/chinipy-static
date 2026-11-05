@@ -13,7 +13,7 @@ var e={night:`#1A1030`,night2:`#261A42`,wall:`#4B2179`,wallDot:`#5A2B8C`,crown:`
     <g clip-path="url(#hallWallOnly)">${g}</g>
     <ellipse cx="${i.cx}" cy="${i.top+110}" rx="${i.r+90}" ry="${i.r+40}" fill="url(#hallMoonWall)"/>
     <rect x="${c}" y="${u}" width="${l}" height="${s.top-u+h}" fill="${e.crown}"/><rect x="${c}" y="${s.top+h}" width="${l}" height="5" fill="${e.rail}" opacity=".6"/>
-    <rect x="${c}" y="-6" width="${l}" height="6" fill="${e.rail}" opacity=".55"/>
+    <rect x="${c}" y="-10" width="${l}" height="18" fill="${e.crown}"/><rect x="${c}" y="-10" width="${l}" height="3" fill="${e.rail}" opacity=".7"/><rect x="${c}" y="6" width="${l}" height="2" fill="#000" opacity=".25"/>
     ${a(s.x0+20,s.x1-20,s.top+48,46)}
     <rect x="${c}" y="${o-m}" width="${l}" height="${d-o+m}" fill="${e.wain}"/>
     ${_}
