@@ -1,1 +1,0 @@
-import{Ot as e}from"./pick.CLr__3j7.js";document.querySelector(`[data-biz-sheet-open]`)?.addEventListener(`click`,()=>{e(`bizSheet`),document.getElementById(`bizSheetTitle`)?.focus()});
