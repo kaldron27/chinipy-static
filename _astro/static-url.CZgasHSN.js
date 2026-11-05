@@ -1,1 +1,0 @@
-var e=typeof document>`u`?null:document.querySelector(`meta[name="chinipy:static"]`),t=e?.content??``,n=(e?.dataset.paths??``).split(` `).filter(Boolean);function r(e){if(!t||!e.startsWith(`/`)||e.startsWith(`//`))return e;let r=e.slice(1);return n.some(e=>r.startsWith(e))?t+r:e}export{r as t};
