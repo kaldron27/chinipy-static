@@ -1,0 +1,1 @@
+import{n as e}from"./recent-apps.ChBISNrp.js";import{t}from"./launcher-home.zANC-KXG.js";import{t as n}from"./lunar.BDuqyWFn.js";e(`moonrise`,[`fortune`,`tarot`,`lune`]),t(`moonrise`);var r=document.getElementById(`publicDate`);r&&(r.textContent=`${n().band} 오늘의 운세`);

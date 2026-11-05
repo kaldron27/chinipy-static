@@ -1,1 +1,0 @@
-import{n as e}from"./duty.DNnrl4MQ.js";for(let t of document.querySelectorAll(`[data-fixed-duty]`))e(t);

@@ -1,1 +1,0 @@
-import{t as e}from"./shared-landing.Nygi2P-U.js";e();
