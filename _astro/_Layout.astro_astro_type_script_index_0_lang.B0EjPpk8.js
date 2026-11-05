@@ -1,0 +1,1 @@
+import{t as e}from"./boot.CU06BHu6.js";e();

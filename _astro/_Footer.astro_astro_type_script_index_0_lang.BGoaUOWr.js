@@ -1,1 +1,0 @@
-import{Dt as e}from"./pick._k2DkIFn.js";document.querySelector(`[data-biz-sheet-open]`)?.addEventListener(`click`,()=>{e(`bizSheet`),document.getElementById(`bizSheetTitle`)?.focus()});
