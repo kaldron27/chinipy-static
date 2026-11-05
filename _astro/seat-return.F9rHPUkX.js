@@ -1,0 +1,1 @@
+var e=null,t=t=>{e=new URL(t,location.href).pathname},n=()=>e===location.pathname,r=null,i=e=>{r=e},a=()=>{let e=r;return r=null,e};export{a as i,t as n,i as r,n as t};

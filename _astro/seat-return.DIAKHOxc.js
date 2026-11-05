@@ -1,1 +1,0 @@
-var e=null,t=t=>{e=new URL(t,location.href).pathname},n=()=>e===location.pathname;export{t as n,n as t};
