@@ -1,0 +1,1 @@
+import{t as e}from"./masters.CUqynzzX.js";import{n as t}from"./ui-core.C5X8e2D7.js";function n(n){let r=t(`span`,`seal is-${n}`),i=t(`span`,`seal-face`),a=t(`img`);return a.src=e[n].face,a.alt=``,a.width=55,a.height=54,i.append(a),r.append(i,t(`span`,`seal-name`,e[n].nameKo)),r}export{n as t};

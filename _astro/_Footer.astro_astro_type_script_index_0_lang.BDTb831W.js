@@ -1,1 +1,0 @@
-import{Dt as e}from"./pick.BWpoSlGi.js";document.querySelector(`[data-biz-sheet-open]`)?.addEventListener(`click`,()=>{e(`bizSheet`),document.getElementById(`bizSheetTitle`)?.focus()});
