@@ -1,4 +1,4 @@
-var e={night:`#1A1030`,night2:`#261A42`,wall:`#4B2179`,wallDot:`#5A2B8C`,crown:`#5A3A28`,wain:`#5A3A28`,wainPanel:`#4C3022`,rail:`#A87447`,floor:`#9A6640`,floorAlt:`#A16B45`,seam:`#76492B`,board:`#3A2418`,cream:`#F3E9D2`,moon:`#FFF1B8`,yellow:`#FED73C`,candle:`#F7B24A`,cloth:`#690CA5`,lilac:`#8E4BC8`,leaf:`#3E8E4E`,leafDark:`#2C6B3A`},t=(e,t,n=``)=>`<svg class="${n}" xmlns="http://www.w3.org/2000/svg" viewBox="${e.join(` `)}" width="${e[2]}" height="${e[3]}" aria-hidden="true" focusable="false">${t}</svg>`,n=e=>()=>(e=e*16807%2147483647,e/2147483647),r=(e,t,n,r)=>`M${e-r} ${n} V${t+r} A${r} ${r} 0 0 1 ${e+r} ${t+r} V${n} Z`;function i(n){let i=n.window,o=n.wallBase,s=n.room,c=s.x0-40,l=s.x1-s.x0+80,u=s.top,d=o+40-u,f=r(i.cx,i.top+i.frame,i.bottom-i.frame,i.r-i.frame),p=r(i.cx,i.top,i.bottom,i.r),m=n.wainscot,h=n.crown,g=``;for(let t=u+58,n=0;t<o-m-8;t+=44,n++)for(let r=s.x0+n%2*30-20;r<s.x1+40;r+=60)g+=`<path d="M${r} ${t-4}L${r+1.2} ${t-1.2}L${r+4} ${t}L${r+1.2} ${t+1.2}L${r} ${t+4}L${r-1.2} ${t+1.2}L${r-4} ${t}L${r-1.2} ${t-1.2}Z" fill="${e.wallDot}"/>`;let _=``;for(let t=s.x0+30;t<s.x1;t+=78)_+=`<rect x="${t}" y="${o-m+12}" width="64" height="${m-24}" rx="3" fill="${e.wainPanel}"/>`;let v=``;for(let[t,r]of[...n.lamps,...n.sideLamps])v+=`<circle cx="${t}" cy="${r+34}" r="78" fill="url(#hallLampG)"/>
+var e={night:`#1A1030`,night2:`#261A42`,wall:`#4B2179`,wallDot:`#5A2B8C`,crown:`#5A3A28`,wain:`#5A3A28`,wainPanel:`#4C3022`,rail:`#A87447`,floor:`#9A6640`,floorAlt:`#A16B45`,seam:`#76492B`,board:`#3A2418`,cream:`#F3E9D2`,moon:`#FFF1B8`,yellow:`#FED73C`,candle:`#F7B24A`,cloth:`#690CA5`,lilac:`#8E4BC8`,leaf:`#3E8E4E`,leafDark:`#2C6B3A`},t=(e,t,n=``)=>`<svg class="${n}" xmlns="http://www.w3.org/2000/svg" viewBox="${e.join(` `)}" width="${e[2]}" height="${e[3]}" aria-hidden="true" focusable="false">${t}</svg>`,n=e=>()=>(e=e*16807%2147483647,e/2147483647),r=(e,t,n,r)=>`M${e-r} ${n} V${t+r} A${r} ${r} 0 0 1 ${e+r} ${t+r} V${n} Z`;function i(n){let i=n.window,o=n.wallBase,s=n.room,c=s.x0-80,l=s.x1-s.x0+160,u=s.top-80,d=o+40-u,f=r(i.cx,i.top+i.frame,i.bottom-i.frame,i.r-i.frame),p=r(i.cx,i.top,i.bottom,i.r),m=n.wainscot,h=n.crown,g=``;for(let t=s.top+58,n=0;t<o-m-8;t+=44,n++)for(let r=s.x0+n%2*30-20;r<s.x1+40;r+=60)g+=`<path d="M${r} ${t-4}L${r+1.2} ${t-1.2}L${r+4} ${t}L${r+1.2} ${t+1.2}L${r} ${t+4}L${r-1.2} ${t+1.2}L${r-4} ${t}L${r-1.2} ${t-1.2}Z" fill="${e.wallDot}"/>`;let _=``;for(let t=s.x0+30;t<s.x1;t+=78)_+=`<rect x="${t}" y="${o-m+12}" width="64" height="${m-24}" rx="3" fill="${e.wainPanel}"/>`;let v=``;for(let[t,r]of[...n.lamps,...n.sideLamps])v+=`<circle cx="${t}" cy="${r+34}" r="78" fill="url(#hallLampG)"/>
       <path d="M${t-16} ${r-18} H${t+2} V${r-2}" fill="none" stroke="${e.board}" stroke-width="4"/>
       <rect x="${t-13}" y="${r}" width="26" height="8" rx="2" fill="${e.crown}"/>
       <rect x="${t-11}" y="${r+8}" width="22" height="34" rx="3" fill="${e.yellow}"/>
@@ -12,9 +12,9 @@ var e={night:`#1A1030`,night2:`#261A42`,wall:`#4B2179`,wallDot:`#5A2B8C`,crown:`
     <path d="M${c} ${u} H${c+l} V${o+40} H${c} Z ${f}" fill="${e.wall}" fill-rule="evenodd"/>
     <g clip-path="url(#hallWallOnly)">${g}</g>
     <ellipse cx="${i.cx}" cy="${i.top+110}" rx="${i.r+90}" ry="${i.r+40}" fill="url(#hallMoonWall)"/>
-    <rect x="${c}" y="${u}" width="${l}" height="${h}" fill="${e.crown}"/><rect x="${c}" y="${u+h}" width="${l}" height="5" fill="${e.rail}" opacity=".6"/>
+    <rect x="${c}" y="${u}" width="${l}" height="${s.top-u+h}" fill="${e.crown}"/><rect x="${c}" y="${s.top+h}" width="${l}" height="5" fill="${e.rail}" opacity=".6"/>
     <rect x="${c}" y="-6" width="${l}" height="6" fill="${e.rail}" opacity=".55"/>
-    ${a(s.x0+20,s.x1-20,u+48,46)}
+    ${a(s.x0+20,s.x1-20,s.top+48,46)}
     <rect x="${c}" y="${o-m}" width="${l}" height="${d-o+m}" fill="${e.wain}"/>
     ${_}
     <rect x="${c}" y="${o-m-2}" width="${l}" height="9" fill="${e.rail}"/>
@@ -57,8 +57,9 @@ var e={night:`#1A1030`,night2:`#261A42`,wall:`#4B2179`,wallDot:`#5A2B8C`,crown:`
     <rect x="${d.x+d.gap/2}" y="${a-34}" width="${u-d.x-d.gap/2}" height="6" fill="${e.crown}"/>
     <rect x="${d.x-d.gap/2-16}" y="${a-44}" width="16" height="50" rx="3" fill="${e.crown}"/>
     <rect x="${d.x+d.gap/2}" y="${a-44}" width="16" height="50" rx="3" fill="${e.crown}"/>
-    <rect x="${c}" y="${s.top}" width="24" height="${a-s.top}" fill="${e.night2}"/><rect x="${c+20}" y="${s.top}" width="5" height="${a-s.top}" fill="${e.crown}"/>
-    <rect x="${u-24}" y="${s.top}" width="24" height="${a-s.top}" fill="${e.night2}"/><rect x="${u-25}" y="${s.top}" width="5" height="${a-s.top}" fill="${e.crown}"/>`;return{svg:t([c,s.top,l,a-s.top+o+200],w,`art-floor`),box:[c,s.top,l,a-s.top+o+200]}}function s(n){let r=n.chair,i=r.w,a=r.bottom-r.top,o=`
+    <rect x="${c-80}" y="${s.top-80}" width="104" height="${a-s.top+80}" fill="${e.night2}"/><rect x="${c+20}" y="${s.top}" width="5" height="${a-s.top}" fill="${e.crown}"/>
+    <rect x="${u-24}" y="${s.top-80}" width="104" height="${a-s.top+80}" fill="${e.night2}"/><rect x="${u-25}" y="${s.top}" width="5" height="${a-s.top}" fill="${e.crown}"/>
+    <rect x="${c-80}" y="${a}" width="80" height="${o+200}" fill="#140C26"/><rect x="${u}" y="${a}" width="80" height="${o+200}" fill="#140C26"/>`;return{svg:t([c-80,s.top-80,l+160,a-s.top+80+o+200],w,`art-floor`),box:[c-80,s.top-80,l+160,a-s.top+80+o+200]}}function s(n){let r=n.chair,i=r.w,a=r.bottom-r.top,o=`
     <path d="M8 ${a} V34 Q8 4 ${i/2} 4 Q${i-8} 4 ${i-8} 34 V${a} H${i-22} V40 Q${i-22} 18 ${i/2} 18 Q22 18 22 40 V${a} Z" fill="${e.crown}"/>
     <path d="M14 34 Q14 10 ${i/2} 10" fill="none" stroke="${e.rail}" stroke-width="3" opacity=".7"/>
     ${[.3,.5,.7].map(e=>`<rect x="${(i*e-4).toFixed(1)}" y="22" width="8" height="${a-22}" rx="3" fill="#6B4428"/>`).join(``)}`;return{svg:t([0,0,i,a],o,`art-chair`),box:[r.x-i/2,r.top,i,a],y:r.sortY}}function c(n){let[r,i]=n.lounge.tea;return{svg:t([0,-6,120,76],`
