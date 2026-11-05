@@ -1,0 +1,1 @@
+import{t as e}from"./type-test.6h0rg9ox.js";e();
