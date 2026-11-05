@@ -1,1 +1,0 @@
-import{Ot as e}from"./pick.CIxiWF3B.js";document.querySelector(`[data-biz-sheet-open]`)?.addEventListener(`click`,()=>{e(`bizSheet`),document.getElementById(`bizSheetTitle`)?.focus()});
