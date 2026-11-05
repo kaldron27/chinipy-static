@@ -1,1 +1,0 @@
-import{t as e}from"./type-test.BoyYaLag.js";e();
