@@ -1,0 +1,1 @@
+export{o as mockRequest}from"./genz-mock.L7INL2ru.js";
