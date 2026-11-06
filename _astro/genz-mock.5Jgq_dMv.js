@@ -1,0 +1,1 @@
+export{n as genzMock}from"./genz-mock.CNN55sxo.js";
