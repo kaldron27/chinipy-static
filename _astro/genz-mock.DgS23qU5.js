@@ -1,0 +1,1 @@
+export{n as genzMock}from"./genz-mock.BU2SpMat.js";
