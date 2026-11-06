@@ -1,1 +1,0 @@
-export{V as fetchOrders}from"./api.CPyaSVaV.js";
