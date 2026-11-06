@@ -1,0 +1,3 @@
+.duty-line{min-height:44px;margin:var(--space-4) 0 0;color:var(--fg);flex-wrap:wrap;align-items:center;gap:4px 8px;font-size:14px;display:flex}.duty-line .avatar{flex:none;width:36px;height:36px}.duty-tag{background:var(--accent);color:var(--accent-fg);border-radius:4px;flex:none;padding:1px 8px;font-size:12px}.duty-tag.is-called{border:1px solid var(--accent);color:var(--fg);background:0 0}.duty-wait{color:var(--fg-muted)}.duty-picker[hidden]{display:none}.duty-picker{margin-top:var(--space-3)}.duty-picker .master-step-line{display:none}.duty-lens{color:var(--fg-muted);font-size:13px}
+
+.astro-route-announcer{clip:rect(0 0 0 0);clip-path:inset(50%);white-space:nowrap;width:1px;height:1px;position:absolute;top:0;left:0;overflow:hidden}
