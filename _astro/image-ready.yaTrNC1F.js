@@ -1,0 +1,1 @@
+function e(e,t){let n=new Promise(t=>{e.complete?t(e.naturalWidth>0):(e.addEventListener(`load`,()=>t(!0),{once:!0}),e.addEventListener(`error`,()=>t(!1),{once:!0}))}).then(t=>t?typeof e.decode!=`function`||e.decode().then(()=>!0,()=>e.naturalWidth>0):!1);return Promise.race([n,new Promise(e=>window.setTimeout(()=>e(!1),t))])}var t=5e3;export{e as n,t};
