@@ -1,0 +1,1 @@
+export{o as mockRequest}from"./genz-mock.D7x7300h.js";
