@@ -1,0 +1,1 @@
+import{t as e}from"./type-test.y_th6Xp2.js";e();
