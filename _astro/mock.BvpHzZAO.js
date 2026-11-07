@@ -1,0 +1,1 @@
+export{o as mockRequest}from"./genz-mock.CEUWT15T.js";
