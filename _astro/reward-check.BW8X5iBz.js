@@ -1,1 +1,0 @@
-function e(e,t,n){let r=Number(e?.rewardCrum);if(!Number.isFinite(r)||r===t)return null;let i=Number(e?.amount);return n!==void 0&&Number.isFinite(i)&&i>0&&i!==n?null:r}var t=`적립 크럼이 바뀌었어요`,n=e=>e>0?`적립 크럼이 바뀌었어요(${e.toLocaleString(`ko-KR`)}크럼). 이대로 결제할까요?`:`이 결제에는 크럼이 적립되지 않아요. 이대로 결제할까요?`;export{n,t as r,e as t};
