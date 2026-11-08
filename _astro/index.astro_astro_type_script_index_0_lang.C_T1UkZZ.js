@@ -1,1 +1,0 @@
-import{t as e}from"./type-test.ClYG7ll1.js";e();

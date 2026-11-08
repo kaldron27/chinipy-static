@@ -1,0 +1,1 @@
+var e=[`paymentId`,`code`,`message`,`pgCode`,`pgMessage`,`transactionType`,`txId`];export{e as t};
