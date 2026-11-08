@@ -1,0 +1,1 @@
+import{n as e}from"./analytics.C5iLGuVk.js";function t(t,n){for(let r of document.querySelectorAll(`[data-launcher-home]`))r.addEventListener(`click`,()=>{for(let e of document.querySelectorAll(`dialog[open]`))e.close();n?.(),e(`launcher_home_click`,{app:t,from:r.dataset.launcherHome??``})})}export{t};
