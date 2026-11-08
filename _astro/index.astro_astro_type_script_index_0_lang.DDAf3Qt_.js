@@ -1,0 +1,1 @@
+import{t as e}from"./type-test.CCY_5xDE.js";e();
