@@ -1,0 +1,1 @@
+export{t as boardTrend}from"./trend-api.KG5HRk-f.js";
