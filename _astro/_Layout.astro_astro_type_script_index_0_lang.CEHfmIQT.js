@@ -1,0 +1,1 @@
+import{t as e}from"./boot.CfB7Mz2_.js";e();
