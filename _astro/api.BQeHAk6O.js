@@ -1,1 +1,0 @@
-export{G as fetchOrders}from"./api.DQVe-N1r.js";
