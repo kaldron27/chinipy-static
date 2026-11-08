@@ -1,1 +1,0 @@
-export{o as mockRequest}from"./genz-mock.Dueo3kM8.js";
