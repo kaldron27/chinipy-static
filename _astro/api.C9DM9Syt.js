@@ -1,0 +1,1 @@
+export{G as fetchOrders}from"./api.CXvWgBnt.js";
