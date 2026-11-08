@@ -1,1 +1,0 @@
-export{G as fetchOrders}from"./api.D8yfv3-f.js";
