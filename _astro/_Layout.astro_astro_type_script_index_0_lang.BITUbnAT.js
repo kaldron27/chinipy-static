@@ -1,0 +1,1 @@
+import{t as e}from"./boot.DKwn30jw.js";e();
