@@ -1,1 +1,0 @@
-export{o as mockRequest}from"./genz-mock.Ds8B_Y9K.js";
