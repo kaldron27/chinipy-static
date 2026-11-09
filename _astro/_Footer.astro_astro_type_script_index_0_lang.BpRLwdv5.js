@@ -1,0 +1,1 @@
+import{ft as e}from"./billing.BJwC7Ky3.js";document.querySelector(`[data-biz-sheet-open]`)?.addEventListener(`click`,()=>{e(`bizSheet`),document.getElementById(`bizSheetTitle`)?.focus()});
