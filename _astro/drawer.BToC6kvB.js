@@ -1,1 +1,0 @@
-export{i as mountDrawer}from"./drawer.P1_NvASv.js";

@@ -1,1 +1,0 @@
-import{ft as e}from"./billing.Bf-Urhi2.js";document.querySelector(`[data-biz-sheet-open]`)?.addEventListener(`click`,()=>{e(`bizSheet`),document.getElementById(`bizSheetTitle`)?.focus()});
