@@ -1,0 +1,1 @@
+export{m as fetchTypes}from"./genz-api.CS7KzqGG.js";
