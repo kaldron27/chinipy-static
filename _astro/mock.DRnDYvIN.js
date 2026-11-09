@@ -1,0 +1,1 @@
+export{o as mockRequest}from"./genz-mock.CF2NnX6x.js";
