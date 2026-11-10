@@ -1,0 +1,1 @@
+export{o as mockRequest}from"./genz-mock.B8_w-lER.js";
