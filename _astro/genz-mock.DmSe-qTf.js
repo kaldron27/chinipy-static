@@ -1,1 +1,0 @@
-export{n as genzMock}from"./genz-mock.DJXCaU95.js";
