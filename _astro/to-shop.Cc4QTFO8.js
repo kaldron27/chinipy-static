@@ -1,0 +1,1 @@
+import{d as e}from"./view-mode.BZVZUUXS.js";var t=`/moonrise/`,n=!1;function r(){e(t,{replace:!0})}function i(){n||(n=!0,document.addEventListener(`click`,e=>{!e.target?.closest?.(`a[data-to-shop]`)||e.defaultPrevented||e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey||(e.preventDefault(),r())}))}export{i as t};

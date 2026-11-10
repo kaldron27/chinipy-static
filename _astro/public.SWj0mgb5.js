@@ -1,1 +1,0 @@
-import{n as e}from"./recent-apps.ChBISNrp.js";import{t}from"./launcher-home.Bz0W9IEz.js";e(`moonrise`,[`fortune`,`tarot`,`lune`]),t(`moonrise`);
