@@ -1,0 +1,1 @@
+import{t as e}from"./boot.C8sMIRA6.js";e();
