@@ -1,1 +1,0 @@
-import{t as e}from"./seat-scene.DGP5GXeB.js";e();

@@ -1,1 +1,0 @@
-import{r as e}from"./page-events.1Zci7ZFG.js";import{t}from"./seat-scene.DGP5GXeB.js";t(),e(({restored:e})=>{e||t()});
