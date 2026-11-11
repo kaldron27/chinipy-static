@@ -1,0 +1,1 @@
+import{n as e}from"./duty.DR7f6l1a.js";for(let t of document.querySelectorAll(`[data-fixed-duty]`))e(t);

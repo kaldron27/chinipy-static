@@ -1,0 +1,1 @@
+export{m as fetchTypes}from"./genz-api.D2Vr-YK2.js";
