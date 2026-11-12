@@ -1,0 +1,1 @@
+import{t as e}from"./boot.5n6WNlji.js";e();

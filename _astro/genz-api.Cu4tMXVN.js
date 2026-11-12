@@ -1,1 +1,0 @@
-export{m as fetchTypes}from"./genz-api.Bgv-2sR_.js";
