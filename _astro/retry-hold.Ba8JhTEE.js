@@ -1,0 +1,1 @@
+var e=class{armed=!1;held=!1;timer;arm(){this.armed=!0}begin(e){this.armed&&(this.armed=!1,this.held=!0,window.clearTimeout(this.timer),this.timer=window.setTimeout(()=>{this.held=!1,e()},1e3))}get active(){return this.held}};export{e as t};

@@ -1,0 +1,1 @@
+export{V as fetchOrders}from"./api.DNvl4020.js";
