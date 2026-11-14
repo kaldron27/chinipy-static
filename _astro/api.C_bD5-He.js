@@ -1,0 +1,1 @@
+export{V as fetchOrders}from"./api.BWo5sE0k.js";
