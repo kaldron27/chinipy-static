@@ -1,1 +1,0 @@
-export{v as fetchTypes}from"./genz-api.73Q2-dEr.js";
