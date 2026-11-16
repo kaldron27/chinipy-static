@@ -1,0 +1,1 @@
+import{t as e}from"./boot.DQG2vX2f.js";e();
