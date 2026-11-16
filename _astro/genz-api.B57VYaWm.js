@@ -1,1 +1,0 @@
-export{y as fetchTypes}from"./genz-api.5CW9_Zl8.js";
