@@ -1,0 +1,1 @@
+import{t as e}from"./boot.j2KRsx-m.js";e();
