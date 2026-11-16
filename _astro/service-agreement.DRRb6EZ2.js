@@ -1,1 +1,0 @@
-export{a as requestServiceAgreement}from"./service-agreement.BzkyLiEJ.js";
