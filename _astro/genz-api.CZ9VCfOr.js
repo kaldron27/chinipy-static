@@ -1,0 +1,1 @@
+export{y as fetchTypes}from"./genz-api.cM-m8re6.js";
