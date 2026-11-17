@@ -1,0 +1,1 @@
+export{n as genzMock}from"./genz-mock.DWGbx7DB.js";

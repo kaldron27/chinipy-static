@@ -1,1 +1,0 @@
-import{t as e}from"./type-test.D_LgRt5j.js";e();
