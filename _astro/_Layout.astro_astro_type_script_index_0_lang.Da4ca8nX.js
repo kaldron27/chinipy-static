@@ -1,0 +1,1 @@
+import{t as e}from"./boot.D3R8A32p.js";e();
