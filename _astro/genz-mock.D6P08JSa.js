@@ -1,0 +1,1 @@
+export{n as genzMock}from"./genz-mock.BV9CEFV8.js";

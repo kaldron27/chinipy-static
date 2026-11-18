@@ -1,0 +1,1 @@
+import{i as e}from"./signup-source.CIpQiDtH.js";import{t}from"./first-visit-entry.BbN2g34J.js";e(t);var n=new URL(document.getElementById(`compareGo`).getAttribute(`href`),window.location.origin);n.search=window.location.search,document.getElementById(`compareGo`).href=n.toString(),window.location.replace(n.toString());
