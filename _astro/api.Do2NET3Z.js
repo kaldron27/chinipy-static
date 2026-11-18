@@ -1,1 +1,0 @@
-export{U as fetchOrders}from"./api.DcSl25ZJ.js";
