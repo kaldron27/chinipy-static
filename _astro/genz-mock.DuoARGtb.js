@@ -1,0 +1,1 @@
+export{n as genzMock}from"./genz-mock.D792PPKe.js";
