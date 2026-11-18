@@ -1,1 +1,0 @@
-export{n as genzMock}from"./genz-mock.DB6R4UgX.js";

@@ -1,0 +1,1 @@
+export{n as genzMock}from"./genz-mock.CnE_3Ps7.js";
