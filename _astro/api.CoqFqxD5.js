@@ -1,1 +1,0 @@
-export{U as fetchOrders}from"./api.35xJvQ8A.js";

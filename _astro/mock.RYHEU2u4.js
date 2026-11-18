@@ -1,1 +1,0 @@
-export{o as mockRequest}from"./genz-mock.CnE_3Ps7.js";
