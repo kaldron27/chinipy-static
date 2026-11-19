@@ -1,0 +1,1 @@
+var e=`/moonrise/tarot/`,t=()=>e,n=(e=``,n=t())=>`${n}${e}`,r=(e=t())=>!0;export{n as i,t as n,r,e as t};
