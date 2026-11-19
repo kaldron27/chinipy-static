@@ -1,1 +1,0 @@
-export{s as mockRequest}from"./genz-mock.CtpYjarb.js";
