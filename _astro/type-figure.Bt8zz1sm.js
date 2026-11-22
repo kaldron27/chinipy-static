@@ -1,0 +1,1 @@
+import{d as e}from"./masters.BfElVZKV.js";import{n as t}from"./ui-core.CPvVdn2n.js";function n(n,r=``){let i=t(`span`,`type-char is-${n}${r?` ${r}`:``}`);i.setAttribute(`aria-hidden`,`true`);let a=t(`img`,`type-fig`);return a.src=e[n],a.alt=``,a.width=480,a.height=480,a.decoding=`async`,i.append(a),i}export{n as t};
