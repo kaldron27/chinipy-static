@@ -1,0 +1,1 @@
+export{n as genzMock}from"./genz-mock.DnY8_IiY.js";
