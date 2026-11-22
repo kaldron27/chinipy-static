@@ -1,1 +1,0 @@
-import{t as e}from"./boot.C8n95De7.js";import{n as t,t as n}from"./to-shop.Dvxy-LyS.js";import{t as r}from"./watch-boot.CnQy9aP4.js";e([[`to-shop`,()=>{document.querySelector(`a[data-to-shop]`)&&n()}],[`to-seat`,()=>t()],[`watch`,()=>r()]]);
