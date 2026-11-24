@@ -1,1 +1,0 @@
-import{n as e,t}from"./analytics.DtCjIJ05.js";import{i as n}from"./share.CJQc2BYw.js";t({maskPath:n});var r=document.querySelector(`[data-card-page]`);r&&e(`card_page_view`,{card:r.dataset.cardPage});

@@ -1,0 +1,1 @@
+export{y as fetchTypes}from"./genz-api.gittRUP8.js";

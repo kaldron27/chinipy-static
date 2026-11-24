@@ -1,0 +1,1 @@
+import{t as e}from"./type-test.Rek4jAdO.js";e();
