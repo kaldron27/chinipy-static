@@ -1,0 +1,1 @@
+import{t as e}from"./type-test.7hmJX-s2.js";e();
