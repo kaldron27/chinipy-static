@@ -1,0 +1,1 @@
+export{n as genzMock}from"./genz-mock.BiskaO0u.js";
