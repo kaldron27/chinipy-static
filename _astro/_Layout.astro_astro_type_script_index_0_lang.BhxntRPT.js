@@ -1,0 +1,1 @@
+import{t as e}from"./boot.DpYuj-pA.js";e();

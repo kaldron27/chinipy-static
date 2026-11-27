@@ -1,0 +1,1 @@
+import{mt as e}from"./api.CyoD99yo.js";var t=[`weather`,`burnout`,`lovemode`],n=e=>t.includes(e),r=()=>e(`/v1/fortune/quiz`,{quiet:!0}),i=t=>e(`/v1/fortune/quiz/${t}`,{quiet:!0,anonymous:!0}),a=t=>e(`/v1/fortune/quiz/${t}/today`,{quiet:!0}),o=(t,n,r)=>e(`/v1/fortune/quiz/${t}/result`,{method:`POST`,body:r?{...n,purchaseToken:r}:n});export{o as a,n as i,r as n,a as r,i as t};

@@ -1,0 +1,1 @@
+export{y as fetchTypes}from"./genz-api.D08vesj2.js";
