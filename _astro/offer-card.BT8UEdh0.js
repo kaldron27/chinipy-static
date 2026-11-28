@@ -1,1 +1,0 @@
-export{t as offerCard}from"./offer-card.BKKzZjIe.js";

@@ -1,0 +1,1 @@
+export{y as fetchTypes}from"./genz-api.Db1yDl1Z.js";

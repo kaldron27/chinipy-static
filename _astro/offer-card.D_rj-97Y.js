@@ -1,0 +1,1 @@
+export{t as offerCard}from"./offer-card.Bqj_Byec.js";

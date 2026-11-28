@@ -1,0 +1,1 @@
+var e=`tarot_ticket_celtic`,t=`tarot_reading_celtic`,n=`/moonrise/tarot/celtic/`,r=[{title:`십자 · 이 일의 지금`,from:0,to:6},{title:`기둥 · 나와 끝`,from:6,to:10}];export{e as i,r as n,n as r,t};
